@@ -25,13 +25,16 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="left">
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/python--v1.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/css3.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/javascript.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/git.png"/> </a>
+    <a href="#">  <img src="https://img.icons8.com/color/96/000000/nodejs.png"/> </a>
+     <a href="#">  <img src="https://img.icons8.com/color/96/000000/express.png"/> </a>
+    <a href="#">  <img src="https://img.icons8.com/color/96/000000/mongodb.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/ios-filled/100/000000/github.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/visual-studio--v2.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/96/windows-10.png"/> </a>
